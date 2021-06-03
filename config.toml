@@ -1,0 +1,5 @@
+baseURL = "http://yhh2021x.github.io/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "ananke"
+publishdir = "../yhh2021.github.io"
